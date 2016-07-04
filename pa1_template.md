@@ -5,10 +5,7 @@ date: "July 2, 2016"
 output: html_document
 ---
 
-```r
-#SHA-1: 94a3cfd46d6e76fad00618655f6974aaa2625204 
-#Github URL: https://github.com/davidford53/RepData_PeerAssessment1
-```
+
 
 ## Loading and preprocessing the data
 
